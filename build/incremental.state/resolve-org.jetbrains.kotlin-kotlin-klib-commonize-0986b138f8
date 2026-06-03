@@ -1,0 +1,29 @@
+{
+    "codeVersion": "0.10.0",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-klib-commonizer-embeddable/2.3.20/kotlin-klib-commonizer-embeddable-2.3.20.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.20/kotlin-stdlib-2.3.20.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.20/kotlin-compiler-embeddable-2.3.20.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.20/kotlin-script-runtime-2.3.20.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.20/kotlin-daemon-embeddable-2.3.20.jar",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar"
+    ],
+    "outputFilesState": {
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar": "size 29371 mtime 2026-04-17T14:53:38.467647204Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.20/kotlin-compiler-embeddable-2.3.20.jar": "size 59718536 mtime 2026-04-17T14:55:31.595940837Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.20/kotlin-daemon-embeddable-2.3.20.jar": "size 368343 mtime 2026-04-17T14:55:31.33581724Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-klib-commonizer-embeddable/2.3.20/kotlin-klib-commonizer-embeddable-2.3.20.jar": "size 3824277 mtime 2026-04-17T14:55:32.009486499Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2026-04-17T14:55:31.884106568Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.20/kotlin-script-runtime-2.3.20.jar": "size 44972 mtime 2026-04-17T14:55:31.357228092Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.20/kotlin-stdlib-2.3.20.jar": "size 1804720 mtime 2026-04-17T14:53:23.286865706Z mode 420 owner Giorgi_Shalvashvili group staff",
+        "/Users/Giorgi_Shalvashvili/Library/Caches/JetBrains/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2026-04-17T14:55:31.143912242Z mode 420 owner Giorgi_Shalvashvili group staff"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
