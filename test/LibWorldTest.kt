@@ -4,6 +4,6 @@ import kotlin.test.assertTrue
 class LibWorldTest {
     @Test
     fun doTest() {
-        assertTrue(getWorld().contains("World"))
+        assertTrue(getWorld().contains("World some update here"))
     }
 }
